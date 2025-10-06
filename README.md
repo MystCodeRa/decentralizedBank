@@ -3,7 +3,7 @@
 A simple decentralized banking systembuilt with Solidity.
 Users can depoist ETH, earn time-based interest, and withdraw anytime.
 ## Features 
--Deposit ETH and earn interest over time 
+- Deposit ETH and earn interest over time 
 - withraw with interest calculated bt timestamp
 - Owner can adjust interest rate
 - Secure contract logic with events
