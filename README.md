@@ -1,6 +1,6 @@
 ## Decentralied Bank (Ethereum smart contract)
 
-A simple decentralized banking systembuilt with Solidity.
+A simple decentralized banking system built with Solidity.
 Users can depoist ETH, earn time-based interest, and withdraw anytime.
 ## Features 
 - Deposit ETH and earn interest over time 
